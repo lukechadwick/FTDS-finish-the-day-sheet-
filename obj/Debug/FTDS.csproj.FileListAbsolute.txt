@@ -1,0 +1,9 @@
+c:\users\defaultuser0\documents\visual studio 2015\Projects\FTDS\bin\Debug\FTDS.exe.config
+c:\users\defaultuser0\documents\visual studio 2015\Projects\FTDS\bin\Debug\FTDS.exe
+c:\users\defaultuser0\documents\visual studio 2015\Projects\FTDS\bin\Debug\FTDS.pdb
+c:\users\defaultuser0\documents\visual studio 2015\Projects\FTDS\obj\Debug\FTDS.csprojResolveAssemblyReference.cache
+c:\users\defaultuser0\documents\visual studio 2015\Projects\FTDS\obj\Debug\FTDS.Form1.resources
+c:\users\defaultuser0\documents\visual studio 2015\Projects\FTDS\obj\Debug\FTDS.Properties.Resources.resources
+c:\users\defaultuser0\documents\visual studio 2015\Projects\FTDS\obj\Debug\FTDS.csproj.GenerateResource.Cache
+c:\users\defaultuser0\documents\visual studio 2015\Projects\FTDS\obj\Debug\FTDS.exe
+c:\users\defaultuser0\documents\visual studio 2015\Projects\FTDS\obj\Debug\FTDS.pdb
